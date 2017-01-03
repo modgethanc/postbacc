@@ -25,3 +25,6 @@
 \contentsline {section}{\numberline {6.1}Nature Versus Nature Versus Nature}{43}{section.6.1}
 \contentsline {section}{\numberline {6.2}For the Sake of a View}{45}{section.6.2}
 \contentsline {chapter}{\numberline {7}Art, Anthropology, and Empire}{55}{chapter.7}
+\contentsline {section}{\numberline {7.1}Recontextualizing Aesthetics of a \textit {Nkisi Nkondi}}{55}{section.7.1}
+\contentsline {section}{\numberline {7.2}Commodifying Tattoo}{57}{section.7.2}
+\contentsline {section}{\numberline {7.3}Skin-Deep Identities}{57}{section.7.3}
