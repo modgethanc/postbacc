@@ -1,5 +1,9 @@
 \documentclass{book}[10pt,letterpaper,openany]
 \usepackage{postbacc-staple}
+\usepackage{endnotes}
+
+\let\footnote=\endnote
+
 \begin{document}
 \title{TITLE: A Post-Bacc Staple Thesis}
 \author{Vincent Zeng}
@@ -25,24 +29,16 @@
 \chapter{Trajectories in Photography}
 \input{ch2.tex}
 
-\chapter{79-212 China and its Neighbors}
-\textit{Sring 2014}
-\textbf{Professor: Dr. Donald Sutton}
+\chapter{China and its Neighbors}
+\input{ch3.tex}
 
-\chapter{79-245 Capitalism and Individualism}
-\textit{Fall 2014}
-\textbf{Professor: Dr. Scott Sandage}
+\chapter{Capitalism and Individualism}
+\input{ch4.tex}
 
-\chapter{79-212 Modern China}
-\textit{Spring 2015}
-\textbf{Professor: Dr. Donald Sutton}
+\chapter{Modern China}
 
-\chapter{79-375 China's Environmental Crisis}
-\textit{Spring 2015}
-\textbf{Professor: Dr. Donld Sutton}
+\chapter{China's Environmental Crisis}
 
-\chapter{79-xxx Art, Anthropology, and Empire}
-\textit{Fall 2016}
-\textbf{Professor: Dr. Paul Eiss}
+\chapter{Art, Anthropology, and Empire}
 
 \end{document}
