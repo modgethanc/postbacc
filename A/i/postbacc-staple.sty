@@ -1,6 +1,11 @@
+%% general imports
+\usepackage{hyperref}
+
+%% endnote wrangling
 \usepackage{endnotes}
 \let\footnote=\endnote
 \newcommand{\groupendnotes}{\begingroup \theendnotes
 \setcounter{endnote}{0}\endgroup}
 
+%% reference wrangling
 \newcommand{\bibent}{\noindent \hangindent 40pt}
