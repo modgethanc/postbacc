@@ -10,3 +10,15 @@
 
 %% reference wrangling
 \newcommand{\bibent}{\noindent \hangindent 40pt}
+
+%% page opening
+
+\renewcommand\mainmatter{ %override from book.cls
+    \clearpage
+    \@mainmattertrue
+    \pagenumbering{arabic}}
+
+\renewcommand\frontmatter{%override from book.cls
+    \clearpage
+    \@mainmatterfalse
+    \pagenumbering{roman}}
