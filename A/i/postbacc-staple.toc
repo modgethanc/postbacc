@@ -28,4 +28,4 @@
 \contentsline {section}{\numberline {I.}Recontextualizing Aesthetics of a \textit {Nkisi Nkondi}}{61}{section.7.1}
 \contentsline {section}{\numberline {II.}Commodifying Tattoo}{63}{section.7.2}
 \contentsline {section}{\numberline {III.}Skin-Deep Identities}{65}{section.7.3}
-\contentsline {chapter}{\numberline {A}Full Course Listings}{71}{appendix.A}
+\contentsline {chapter}{\numberline {A}Full Course Descriptions}{71}{appendix.A}
