@@ -27,55 +27,94 @@ macro:->MacGaffey,
 176
 \@endanenote 
 \@doanenote {8}
-macro:->Thomas,
-102
+macro:->Mallon,
+145
 \@endanenote 
 \@doanenote {9}
-macro:->ibid.,
-104
+macro:->ibid.
 \@endanenote 
 \@doanenote {10}
 macro:->ibid.,
-108
+146
 \@endanenote 
 \@doanenote {11}
 macro:->ibid.,
-103
+159
 \@endanenote 
 \@doanenote {12}
+macro:->ibid.,
+157
+\@endanenote 
+\@doanenote {13}
+macro:->ibid.,
+149
+\@endanenote 
+\@doanenote {14}
+macro:->ibid.,
+158
+\@endanenote 
+\@doanenote {15}
+macro:->Thomas,
+125
+\@endanenote 
+\@doanenote {16}
+macro:->ibid.,
+129–130
+\@endanenote 
+\@doanenote {17}
+macro:->Mallon,
+158
+\@endanenote 
+\@doanenote {18}
+macro:->Thomas,
+102
+\@endanenote 
+\@doanenote {19}
+macro:->ibid.,
+104
+\@endanenote 
+\@doanenote {20}
+macro:->ibid.,
+108
+\@endanenote 
+\@doanenote {21}
+macro:->ibid.,
+103
+\@endanenote 
+\@doanenote {22}
 macro:->Te
 Awekotuku,
 pp.
 85
 \@endanenote 
-\@doanenote {13}
+\@doanenote {23}
 macro:->ibid.,
 90
 \@endanenote 
-\@doanenote {14}
+\@doanenote {24}
 macro:->ibid.,
 91
 \@endanenote 
-\@doanenote {15}
+\@doanenote {25}
 macro:->ibid
 \@endanenote 
-\@doanenote {16}
+\@doanenote {26}
 macro:->Schwartz,
 225
 \@endanenote 
-\@doanenote {17}
+\@doanenote {27}
 macro:->ibid.,
 227
 \@endanenote 
-\@doanenote {18}
+\@doanenote {28}
 macro:->ibid.,
 232
 \@endanenote 
-\@doanenote {19}
+\@doanenote {29}
 macro:->ibid.,
 228
 \@endanenote 
-\@doanenote {20}
+\@doanenote {30}
 macro:->\textit
 {GoFundMe},
 as
@@ -84,6 +123,6 @@ of
 December
 2016
 \@endanenote 
-\@doanenote {21}
+\@doanenote {31}
 macro:->Talamo
 \@endanenote 

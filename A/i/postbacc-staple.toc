@@ -1,30 +1,31 @@
 \contentsline {chapter}{Preface}{v}{chapter*.2}
 \contentsline {chapter}{Acknowldegements}{vii}{chapter*.3}
 \contentsline {chapter}{\numberline {1}American Political Humor}{1}{chapter.1}
-\contentsline {section}{\numberline {1.1}The Greyness of Mark Twain}{1}{section.1.1}
-\contentsline {section}{\numberline {1.2}The Greyness of Mark Twain (revision)}{3}{section.1.2}
-\contentsline {section}{\numberline {1.3}Feeding the Comedian Ego}{6}{section.1.3}
-\contentsline {section}{\numberline {1.4}The Importance of Being Obnoxious}{8}{section.1.4}
+\contentsline {section}{\numberline {I.\\}The Greyness of Mark Twain}{1}{section.1.1}
+\contentsline {section}{\numberline {II.\\}The Greyness of Mark Twain (revision)}{3}{section.1.2}
+\contentsline {section}{\numberline {III.\\}Feeding the Comedian Ego}{6}{section.1.3}
+\contentsline {section}{\numberline {IV.\\}The Importance of Being Obnoxious}{8}{section.1.4}
 \contentsline {chapter}{\numberline {2}Trajectories in Photography}{13}{chapter.2}
-\contentsline {section}{\numberline {2.1}Analysis of Wilson Hicks: ``What is Photojournalism?''}{13}{section.2.1}
-\contentsline {section}{\numberline {2.2}Flakey Imagery}{14}{section.2.2}
+\contentsline {section}{\numberline {I.\\}Analysis of Wilson Hicks: ``What is Photojournalism?''}{13}{section.2.1}
+\contentsline {section}{\numberline {II.\\}Flakey Imagery}{14}{section.2.2}
 \contentsline {chapter}{\numberline {3}China and its Neighbors}{19}{chapter.3}
-\contentsline {section}{\numberline {3.1}The Disputes of Grey Areas}{19}{section.3.1}
-\contentsline {section}{\numberline {3.2}A Culture of Disunity}{22}{section.3.2}
-\contentsline {section}{\numberline {3.3}The Assimilation Question}{25}{section.3.3}
+\contentsline {section}{\numberline {I.\\}The Disputes of Grey Areas}{19}{section.3.1}
+\contentsline {section}{\numberline {II.\\}A Culture of Disunity}{22}{section.3.2}
+\contentsline {section}{\numberline {III.\\}The Assimilation Question}{25}{section.3.3}
 \contentsline {chapter}{\numberline {4}Capitalism and Individualism}{31}{chapter.4}
-\contentsline {section}{\numberline {4.1}The Bootstrapping Factor}{31}{section.4.1}
-\contentsline {section}{\numberline {4.2}Misunderstanding the Misunderstood}{33}{section.4.2}
-\contentsline {section}{\numberline {4.3}A Collective Dreaming}{34}{section.4.3}
-\contentsline {section}{\numberline {4.4}The Immigrant Ethic and the Spirit of Escapism}{36}{section.4.4}
+\contentsline {section}{\numberline {I.\\}The Bootstrapping Factor}{31}{section.4.1}
+\contentsline {section}{\numberline {II.\\}Misunderstanding the Misunderstood}{33}{section.4.2}
+\contentsline {section}{\numberline {III.\\}A Collective Dreaming}{34}{section.4.3}
+\contentsline {section}{\numberline {IV.\\}The Immigrant Ethic and the Spirit of Escapism}{36}{section.4.4}
 \contentsline {chapter}{\numberline {5}Modern China}{41}{chapter.5}
-\contentsline {section}{\numberline {5.1}Success and Failure in the Qing Exams}{41}{section.5.1}
-\contentsline {section}{\numberline {5.2}The Adaptable Prosper}{43}{section.5.2}
-\contentsline {section}{\numberline {5.3}The Fear-Cult of Mao}{45}{section.5.3}
+\contentsline {section}{\numberline {I.\\}Success and Failure in the Qing Exams}{41}{section.5.1}
+\contentsline {section}{\numberline {II.\\}The Adaptable Prosper}{43}{section.5.2}
+\contentsline {section}{\numberline {III.\\}The Fear-Cult of Mao}{45}{section.5.3}
 \contentsline {chapter}{\numberline {6}China's Environmental Crisis}{49}{chapter.6}
-\contentsline {section}{\numberline {6.1}Nature Versus Nature Versus Nature}{49}{section.6.1}
-\contentsline {section}{\numberline {6.2}For the Sake of a View}{51}{section.6.2}
+\contentsline {section}{\numberline {I.\\}Nature Versus Nature Versus Nature}{49}{section.6.1}
+\contentsline {section}{\numberline {II.\\}For the Sake of a View}{51}{section.6.2}
 \contentsline {chapter}{\numberline {7}Art, Anthropology, and Empire}{61}{chapter.7}
-\contentsline {section}{\numberline {7.1}Recontextualizing Aesthetics of a \textit {Nkisi Nkondi}}{61}{section.7.1}
-\contentsline {section}{\numberline {7.2}Commodifying Tattoo}{63}{section.7.2}
-\contentsline {section}{\numberline {7.3}Skin-Deep Identities}{63}{section.7.3}
+\contentsline {section}{\numberline {I.\\}Recontextualizing Aesthetics of a \textit {Nkisi Nkondi}}{61}{section.7.1}
+\contentsline {section}{\numberline {II.\\}Commodifying Tattoo}{63}{section.7.2}
+\contentsline {section}{\numberline {III.\\}Skin-Deep Identities}{65}{section.7.3}
+\contentsline {chapter}{Appendix A: Full Course Listings}{71}{chapter*.4}
