@@ -1,24 +1,28 @@
-\documentclass{book}[10pt,openany,twoside]
+\documentclass{book}[10pt]
 \usepackage{postbacc-staple}
-\usepackage{setspace}
 
-\begin{document}
+\makeindex
+
 \title{TITLE: A Post-Bacc Staple Thesis}
 \author{Vincent Zeng}
 \date{DRAFT: \today}
 
 %\doublespacing
 
-\frontmatter
+\begin{document}
+
 
 \maketitle
+
+\frontmatter
+
+\chapter{Acknowldegements}
+\input{acknowledgements.tex}
+
 \tableofcontents
 
 \chapter{Preface}
 \input{preface.tex}
-
-\chapter{Acknowldegements}
-\input{acknowledgements.tex}
 
 
 \mainmatter
@@ -44,9 +48,11 @@
 \chapter{Art, Anthropology, and Empire}
 \input{ch7.tex}
 
-\backmatter
+\appendix
 
-\chapter{Appendix A: Full Course Listings}
+\chapter{Full Course Listings}
 \input{app-a.tex}
+
+\printindex
 
 \end{document}
