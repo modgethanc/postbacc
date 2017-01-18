@@ -22,13 +22,21 @@
     \pagenumbering{arabic}}
 
 \renewcommand\frontmatter{%override from book.cls
-    \cleardoublepage
+    \clearpage
     \@mainmatterfalse
     \pagenumbering{roman}}
 
 %% formatting sledgehammer
 
 \raggedbottom
+\let\cleardoublepage\clearpage
+\usepackage{afterpage}
+
+\newcommand\blankpage{%
+        \null
+        \thispagestyle{empty}%
+        \addtocounter{page}{-1}%
+        \newpage}
 
 %% section display
 
